@@ -636,6 +636,9 @@ section {
   color: #29486a;
   font-family: var(--font-secondary);
 }
+.why-us p{
+  text-align: justify;
+}
 
 .why-us .swiper {
   margin: 140px 140px 120px 140px;
